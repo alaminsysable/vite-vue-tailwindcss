@@ -1,6 +1,9 @@
-# vue-project
+# vue-project-starter-kit
 
 This template should help get you started developing with Vue 3 in Vite.
+
+1. Tailwindcss used as a css framework.
+2. Vite used as a build tool.
 
 ## Recommended IDE Setup
 
@@ -13,23 +16,23 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
-npm install
+yarn install
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Compile and Minify for Production
 
 ```sh
-npm run build
+yarn build
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
-npm run lint
+yarn lint
 ```
